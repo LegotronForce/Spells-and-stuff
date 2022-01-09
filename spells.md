@@ -7,4 +7,4 @@ Spells are "a magical formula intended to trigger a magical effect on a person o
 | [Fireball](https://legotronforce.github.io/Spells-and-stuff/spell-fireball) |
 | ***Water Spells*** |
 | [Waterball](https://legotronforce.github.io/Spells-and-stuff/spell-waterball) |
-| ***Other Spells Spells*** |
+| ***Other Spells*** |
