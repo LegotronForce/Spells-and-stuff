@@ -1,2 +1,2 @@
 # Spells-and-stuff
-A thing for documents ¯\\_(ツ)_/¯
+A world made by `.md` files!
