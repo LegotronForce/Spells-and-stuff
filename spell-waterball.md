@@ -9,7 +9,7 @@
 | Level 4 - 1' 2" |
 | Level 5 - 1' 6" |
 
-As well as amount of mana per level (note that the amount of mana is counted in [manices](https://legotronforce.github.io/Spells-and-stuff/404):
+As well as amount of mana per level (note that the amount of mana is counted in [manices](https://legotronforce.github.io/Spells-and-stuff/404)):
 
 | Level to mana |
 | - |
